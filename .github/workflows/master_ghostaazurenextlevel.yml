@@ -32,5 +32,5 @@ jobs:
       with:
         app-name: 'ghostaazurenextlevel'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0cf1d60df33d4b7ca8a6d02935d4a11e }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_aef4331b0b6649baabe183e450cbe4de }}
         package: .
